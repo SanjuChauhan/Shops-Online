@@ -17,11 +17,11 @@ The home page is a simple category rending page where the categories are static.
 10- Fragment Navigation graph     
 
 
-<a href="images"><img src="https://github.com/SanjuChauhan/Shops-Online/blob/main/images/HomePage.png" align="center" height="600" width="400" ></a>         
+<a href="images"><img src="https://github.com/SanjuChauhan/Shops-Online/blob/main/images/HomePage.png" align="center" height="600" width="350" ></a>         
 
 
-<a href="images"><img src="https://github.com/SanjuChauhan/Shops-Online/blob/main/images/CategoryPage.png" align="center" height="600" width="400" ></a>     
+<a href="images"><img src="https://github.com/SanjuChauhan/Shops-Online/blob/main/images/CategoryPage.png" align="center" height="600" width="350" ></a>     
 
 
-<a href="images"><img src="https://github.com/SanjuChauhan/Shops-Online/blob/main/images/Search.png" align="center" height="600" width="400" ></a>       
+<a href="images"><img src="https://github.com/SanjuChauhan/Shops-Online/blob/main/images/Search.png" align="center" height="600" width="350" ></a>       
 
