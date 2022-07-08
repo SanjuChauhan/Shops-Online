@@ -17,6 +17,6 @@ The home page is a simple category rending page where the categories are static.
 10- Fragment Navigation graph     
 
 
-![Home Page](https://github.com/SanjuChauhan/Shops-Online/blob/main/images/HomePage.png?raw=true)
-![Category Page](https://github.com/SanjuChauhan/Shops-Online/blob/main/images/CategoryPage.png?raw=true)
-![Search Page](https://github.com/SanjuChauhan/Shops-Online/blob/main/images/Search.png?raw=true)
+![Home Page](https://github.com/SanjuChauhan/Shops-Online/blob/main/images/HomePage.png?raw=true){:height="36px" width="36px"}
+![Category Page](https://github.com/SanjuChauhan/Shops-Online/blob/main/images/CategoryPage.png?raw=true){:height="36px" width="36px"}
+![Search Page](https://github.com/SanjuChauhan/Shops-Online/blob/main/images/Search.png?raw=true){:height="36px" width="36px"}
