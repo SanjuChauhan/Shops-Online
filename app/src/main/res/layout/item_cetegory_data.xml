@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="data"
+            type="com.app.lovelocal_assignment.model.CategoryData" />
+    </data>
+
+    <LinearLayout
+        android:id="@+id/rl_root"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?android:selectableItemBackground"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/iv_image"
+            android:layout_width="60dp"
+            android:layout_height="80dp"
+            android:src="@drawable/img_placeholder"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="@dimen/dp_10"
+            android:layout_weight="1"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="@{data.name}"
+            android:textColor="@color/text_color_normal"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            tools:text="Fruits &amp; Vegetables" />
+
+        <TextView
+            android:id="@+id/tv_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="5dp"
+            android:background="@drawable/ic_rounded_corner_background_violet_red"
+            android:paddingStart="@dimen/dp_20"
+            android:paddingTop="@dimen/dp_10"
+            android:paddingEnd="@dimen/dp_20"
+            android:paddingBottom="@dimen/dp_10"
+            android:text="@string/lbl_plus_add"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</layout>

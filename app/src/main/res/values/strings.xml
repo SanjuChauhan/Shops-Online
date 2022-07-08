@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoveLocal Assignment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_category">Category</string>
+    <string name="title_shopping">Shopping</string>
+    <string name="title_wallet">Shopping</string>
+
+    <string name="msg_no_internet">No internet connection</string>
+    <string name="msg_no_data_found">No data found</string>
+
+    <string name="lbl_your_location">Your Location</string>
+    <string name="lbl_search_anything">Search Anything</string>
+    <string name="lbl_plus_add">+ Add</string>
+</resources>
