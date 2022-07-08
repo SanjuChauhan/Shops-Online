@@ -18,10 +18,10 @@ The home page is a simple category rending page where the categories are static.
 
 
 <a href="url"><img src="https://github.com/SanjuChauhan/Shops-Online/blob/main/images/HomePage.png" align="center" height="600" width="300" ></a>         
-<a href="url"><img src="https://github.com/SanjuChauhan/Shops-Online/blob/main/images/CategoryPage.png" align="center" height="600" width="300" ></a>         
+
+
+<a href="url"><img src="https://github.com/SanjuChauhan/Shops-Online/blob/main/images/CategoryPage.png" align="center" height="600" width="300" ></a>     
+
+
 <a href="url"><img src="https://github.com/SanjuChauhan/Shops-Online/blob/main/images/Search.png" align="center" height="600" width="300" ></a>       
 
-
-![Home Page](https://github.com/SanjuChauhan/Shops-Online/blob/main/images/HomePage.png?raw=true)
-![Category Page](https://github.com/SanjuChauhan/Shops-Online/blob/main/images/CategoryPage.png?raw=true)
-![Search Page](https://github.com/SanjuChauhan/Shops-Online/blob/main/images/Search.png?raw=true)
